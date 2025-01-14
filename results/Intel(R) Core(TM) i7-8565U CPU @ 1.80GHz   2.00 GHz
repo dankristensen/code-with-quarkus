@@ -1,0 +1,22 @@
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz   2.00 GHz
+
+**************************************************
+Running build from start took 33 seconds to execute.
+Running single test file took 20
+Running single test file second time took 6
+Running single test file with changes took 19
+**************************************************
+
+**************************************************
+Running build from start took 35 seconds to execute.
+Running single test file took 19
+Running single test file second time took 5
+Running single test file with changes took 20
+**************************************************
+
+**************************************************
+Running build from start took 33 seconds to execute.
+Running single test file took 21
+Running single test file second time took 5
+Running single test file with changes took 20
+**************************************************
